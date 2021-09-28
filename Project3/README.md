@@ -13,3 +13,11 @@ both build a predictive model capable of determining overall network capacity to
 shipping requests as well as more effectively recruit high-performing drivers to enhance their network.
 As a first step, they are interested in developing a classification model to better determine whether or
 not a driver will be a high-performing one.
+
+## Overview of the Process
+1. Generated new labels
+2. Created a data feature extraction plan and implemented a pipeline to execute it
+3. Implemented Principle Component Analysis
+4. Employed an ensemble method
+5. Applied different ML algorithms like: SVM, NN, 
+6. Cross-Validated my training results
