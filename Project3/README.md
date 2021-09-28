@@ -19,5 +19,5 @@ not a driver will be a high-performing one.
 2. Created a data feature extraction plan and implemented a pipeline to execute it
 3. Implemented Principle Component Analysis
 4. Employed an ensemble method
-5. Applied different ML algorithms like: SVM, NN, 
+5. Applied different ML algorithms like SVM, NN and LR 
 6. Cross-Validated my training results
